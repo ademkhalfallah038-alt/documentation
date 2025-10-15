@@ -1,7 +1,7 @@
----
+-free fire--
 title: User documentation
 description: 'Everything HACS for users.'
----
+garina ff---
 Hi there :wave:
 
 This is the beginning of the user documentation for HACS.
